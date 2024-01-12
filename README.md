@@ -31,12 +31,3 @@ We evaluate the performance of differentiable optimization layers for robotics t
    ```
    The task and layer class can be changed by modifying arguments `--cost_type` and `--opt_layer_class` respectively.
 
-## Citation
-```
-@article{liu2023differentiable,
-  title={Differentiable Frank-Wolfe Optimization Layer},
-  author={Liu, Zixuan and Liu, Liu and Wang, Xueqian and Zhao, Peilin},
-  journal={arXiv preprint arXiv:2308.10806},
-  year={2023}
-}
-```
