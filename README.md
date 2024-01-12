@@ -1,4 +1,4 @@
-# Differentiable Frank-Wolfe Optimization Layer
+# DFWLayer: Differentiable Frank-Wolfe Optimization Layer
 
 This repo contains code accompaning the paper, **DFWLayer: Differentiable Frank-Wolfe Optimization Layer**. DFWLayer is a differentiable optimization layer
 which accelerates both the optimization and backprogation procedure with norm constraints.
